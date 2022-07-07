@@ -3,10 +3,10 @@
 - Project Title : Invoice calculation.
 - Project Description : This project is used to generate invoice with multiple product items with tax and discount.
 - Technologies Used : 
-    PHP Codeigniter
-    MYSQL Database
-    Bootstrap
-    jQuery
+    PHP Codeigniter,
+    MYSQL Database,
+    Bootstrap,
+    jQuery,
     Ajax
 - This application is development using XAMPP, so it is suitable for any enviroment.
 - Content:
