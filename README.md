@@ -13,8 +13,9 @@
     - List generate invoices.
     - Create invoice with "Create Invoice" button.
     - With Print icon can able to view / print the invoice.
+	- As this is codeigniter framework, this involves MVC architectural pattern.
 - Installation
-    - Import the attached SQL file to the database.
+    - Import the attached SQL file to the database(Database file is uploaded in "SQL" folder).
     - Database name - taxinvoice.
     - Create a folder in environment and move the files to that folder.
     - Update the "BASE_PATH" variable in constants.php file with the updated code URL.
