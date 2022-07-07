@@ -1,0 +1,19 @@
+.requiredLabel {
+    color: #f00;
+    font-size: 18px;
+}
+
+form label.error {
+    margin-top: 10px;
+    color: #f00;
+}
+
+#successAlert, #errorAlert, #infoAlert, #invoiceItemsErrorDiv {
+    display: none;
+}
+
+@media print {
+    #printPageButton, #printPageHomeButton {
+      display: none;
+    }
+}
