@@ -17,5 +17,6 @@
     - Import the attached SQL file to the database.
     - Database name - taxinvoice.
     - Create a folder in environment and move the files to that folder.
-    - Update the "BASE_PATH" variable in constants.php with the updated code URL.
+    - Update the "BASE_PATH" variable in constants.php file with the updated code URL.
+    - Update the Database details in same constants.php file with respective details.
     - Run the code with the browser.
